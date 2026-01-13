@@ -6,8 +6,8 @@
     "port": 80,
     "domainMap": {
         "hns.im": "",
-        "fotwograf.com": "fotwograf"
-        "wunfoto.xyz": "wunfoto"
+        "fotwograf.click": "fotwograf"
+        "wunfoto.click": "wunfoto"
     }, 
     "rootRedirect": "https://timaxal.hns.im/"
 }
